@@ -6,5 +6,8 @@ public class Main {
 
 		System.out.println("Bienvenidos a la clase de Basica II");
 		System.out.println("Clase de Git");
+		int j = 9;
+		j++;
+		System.out.println(j);
 	}
 }

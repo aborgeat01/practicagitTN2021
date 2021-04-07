@@ -4,9 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		System.out.println("hola mundo");
-		
-		
+		System.out.println("Bienvenidos a la clase de Basica II");
+		System.out.println("Clase de Git");
 	}
-
 }
